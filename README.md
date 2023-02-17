@@ -1,3 +1,3 @@
 # IECSE-Git
 
--   Gautam made the first pull request
+-   Gautam passed the first message
